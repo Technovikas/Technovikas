@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vikas Giri</h1>
 
 <div align="center">
-  <img src="https://github.com/technovikas/technovikas/blob/main/assets/banner.png" alt="Vikas Giri Banner" width="100%" />
+  <img src="https://github.com/Technovikas/Technovikas/blob/main/github-header-image.png" alt="Vikas Giri Banner" width="100%" />
 </div>
 
 <h3 align="center">🚀 DevOps Engineer | Azure & AWS | Kubernetes | CI/CD Automation</h3>
