@@ -1,83 +1,77 @@
 <h1 align="center">Hi 👋, I'm Vikas Giri</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikasgiri&label=Profile%20views&color=0e75b6&style=flat" alt="vikasgiri" />
-</p>
+<div align="center">
+  <img src="https://github.com/technovikas/technovikas/blob/main/assets/banner.png" alt="Vikas Giri Banner" width="100%" />
+</div>
 
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate</h3>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔧 DevOps Engineer with over 3 years of experience in automating and optimizing mission-critical deployments in Azure and AWS environments.
-- 🛠️ Proficient in CI/CD pipeline development, infrastructure as code, and container orchestration.
-- 📈 Implemented robust DevOps solutions for ERP projects, supporting both monolithic and microservices architectures.
-- 🎯 Passionate about leveraging automation to enhance efficiency and reliability in software delivery.
-
----
-
-### 🛠️ Skills & Tools
-
-**Cloud Platforms:**
-- Azure
-- AWS
-
-**DevOps & CI/CD:**
-- Azure DevOps
-- Jenkins
-- GitHub Actions
-- ArgoCD
-
-**Infrastructure as Code:**
-- Terraform
-- Ansible
-
-**Containerization & Orchestration:**
-- Docker
-- Kubernetes
-
-**Monitoring & Logging:**
-- Prometheus
-- Grafana
-- Datadog
-
-**Scripting & Automation:**
-- Bash
-- PowerShell
-- Python
-
-**Version Control:**
-- Git
-- TFVC
-
-**Web Servers & Networking:**
-- Nginx
-- IIS
-- Apache
-- Load Balancers
-- VPC
-- Subnet
-
----
-
-### 📈 GitHub Stats
+<h3 align="center">🚀 DevOps Engineer | Azure & AWS | Kubernetes | CI/CD Automation</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasgiri&show_icons=true&theme=radical" alt="vikasgiri's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasgiri&theme=radical" alt="vikasgiri's GitHub streak" />
+  <a href="https://github.com/technovikas">
+    <img src="https://img.shields.io/github/followers/technovikas?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/vikas-giri-18013b208">
+    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Giri-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:vikasgiri70460@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vikasgiri70460@gmail.com-red?logo=gmail&style=flat-square" />
+  </a>
 </p>
 
 ---
 
-### 📫 Connect with Me
+🎯 **About Me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vikasgiri/)
-- 📧 Email: vikasgiri70460@gmail.com
+I'm a DevOps Engineer with over 3 years of experience specializing in Azure DevOps and Kubernetes (AKS). I excel in deploying scalable, secure, and automated cloud solutions. My expertise includes:
+
+- Designing CI/CD pipelines using Azure DevOps, Docker, and Terraform for both microservices and monolithic applications.
+- Managing AKS clusters with zero-downtime deployments, auto-scaling, and implementing best security practices.
+- Automating infrastructure provisioning with Terraform and configuration management with Ansible.
+- Monitoring performance and proactively resolving issues using tools like Datadog, Prometheus, and Grafana.
+- Delivering ERP projects utilizing Blazor WASM and .NET Core, optimizing deployments, and reducing infrastructure costs.
+
+I'm passionate about building efficient DevOps pipelines and cloud-native infrastructures.
 
 ---
 
-> *"Automating Innovation, Empowering Delivery."*
+🛠️ **Languages and Tools**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=technovikas&show_icons=true&theme=radical" alt="Vikas Giri's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technovikas&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technovikas&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+📫 **How to reach me**
+
+- Email: [vikasgiri70460@gmail.com](mailto:vikasgiri70460@gmail.com)
+- LinkedIn: [Vikas Giri](https://linkedin.com/in/vikas-giri-18013b208)
+- Instagram: [@vikku_giri](https://instagram.com/vikku_giri)
+
+---
+
+💡 **Let's Connect**
+
+I'm always open to discussing new opportunities, collaborations, or sharing knowledge about DevOps and cloud-native technologies. Feel free to reach out!
+
