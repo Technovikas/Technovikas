@@ -2,7 +2,11 @@
   <img src="https://github.com/Technovikas/Technovikas/blob/main/github-header-image.png" alt="Vikas Giri Banner" width="100%" />
 </div>
 
-<h3 align="center">🚀 DevOps Engineer | Azure & AWS | Kubernetes | CI/CD Automation</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps%20Engineer%20%7C%20Azure%20%26%20AWS%20Specialist;CI%2FCD%20%26%20Kubernetes%20Automator;Lifelong%20Learner%20%7C%20Tech%20Enthusiast&center=true&width=500&height=50" />
+</p>
+
+<h3 align="center">🚀 DevOps Engineer | Azure & AWS | Kubernetes | CI/CD | Docker | Terraform</h3>
 
 <p align="center">
   <a href="https://github.com/technovikas">
@@ -20,40 +24,48 @@
 
 🎯 **About Me**
 
-I'm a DevOps Engineer with over 3 years of experience specializing in Azure DevOps and Kubernetes (AKS). I excel in deploying scalable, secure, and automated cloud solutions. My expertise includes:
+I'm a passionate DevOps Engineer with over 3 years of experience automating, securing, and scaling cloud infrastructure using Azure and AWS. My work primarily focuses on:
 
-- Designing CI/CD pipelines using Azure DevOps, Docker, and Terraform for both microservices and monolithic applications.
-- Managing AKS clusters with zero-downtime deployments, auto-scaling, and implementing best security practices.
-- Automating infrastructure provisioning with Terraform and configuration management with Ansible.
-- Monitoring performance and proactively resolving issues using tools like Datadog, Prometheus, and Grafana.
-- Delivering ERP projects utilizing Blazor WASM and .NET Core, optimizing deployments, and reducing infrastructure costs.
+- Designing CI/CD pipelines using Azure DevOps, GitHub Actions, Docker, and Terraform.
+- Managing scalable and secure Kubernetes (AKS) environments with best practices.
+- Automating infrastructure provisioning with Terraform and managing configurations via Ansible.
+- Monitoring applications using Datadog, Prometheus, and Grafana.
+- Delivering modern ERP solutions with .NET Core APIs and Blazor WebAssembly.
 
-I'm passionate about building efficient DevOps pipelines and cloud-native infrastructures.
+I love solving DevOps challenges, improving deployment strategies, and working on cloud-native technologies.
 
 ---
 
 🛠️ **Languages and Tools**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <!-- Additional tools for your stack -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+  <!-- Cloud Providers -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+
+  <!-- Containers & Orchestration -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40" />
+
+  <!-- IaC & Configuration -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" />
+
+  <!-- Monitoring -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" />
+
+  <!-- Programming & Scripting -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" />
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" />
 </p>
 
 ---
@@ -68,11 +80,19 @@ I'm passionate about building efficient DevOps pipelines and cloud-native infras
 
 ---
 
+🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=technovikas&theme=radical&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
 📫 **How to reach me**
 
-- Email: [vikasgiri70460@gmail.com](mailto:vikasgiri70460@gmail.com)
-- LinkedIn: [Vikas Giri](https://linkedin.com/in/vikas-giri-18013b208)
-- Instagram: [@vikku_giri](https://instagram.com/vikku_giri)
+- 📧 Email: [vikasgiri70460@gmail.com](mailto:vikasgiri70460@gmail.com)
+- 💼 LinkedIn: [Vikas Giri](https://linkedin.com/in/vikas-giri-18013b208)
+- 📷 Instagram: [@vikku_giri](https://instagram.com/vikku_giri)
 
 ---
 
